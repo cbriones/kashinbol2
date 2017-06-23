@@ -2,7 +2,7 @@ var vel= 0;
 var velProyectil;
 var cajas = [];
 var n_vertical = 1500;
-var puntaje = 0;
+var puntaje = 110;
 
 
 function setup() {
